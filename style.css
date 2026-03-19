@@ -1,0 +1,16 @@
+.gallery-wrapper {
+  max-width: 300px;
+  overflow: hidden;
+}
+
+.gallery {
+  display: flex;
+}
+
+.gallery a {
+  margin: 10px;
+}
+
+.gallery img {
+  max-width: 200px;
+}
